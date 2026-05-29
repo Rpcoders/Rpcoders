@@ -103,3 +103,11 @@ Product Engineering
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rpcoders/snk/output-svg-only/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
