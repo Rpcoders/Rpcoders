@@ -1,108 +1,105 @@
-<h1 align="left">Hi, I'm Risabh 👋</h1>
+<h1 align="center">Hi, I'm Risabh 👋</h1>
 
-<p align="left">
-I build AI-powered applications, recommendation systems, and backend-driven web products.
+<h3 align="center">
+Building AI-powered systems, recommendation engines, and scalable backend-driven products.
+</h3>
 
-My work focuses on semantic search, automation workflows, API architecture, and scalable system design.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;Backend+%2B+Automation+Builder;Semantic+Search+%26+Recommendation+Systems;Full+Stack+Product+Developer" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🧠 DviMind
 AI-powered personal operating system focused on workflow management, intelligent organization, and productivity automation.
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdydWQ5NWN6eTd5NHBmOG9na3Q0N3M4aDVtbXc1ZnA5MXNjOG9sdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" />
+
+</td>
+
+<td width="50%">
 
 ### 🎯 Recommendation Engine
 Personalized recommendation system using vector similarity, semantic search, and ranking workflows.
 
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 👕 Print-on-Demand Platform
 Full stack commerce platform with authentication, order workflows, and scalable product management architecture.
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
+
+</td>
+
+<td width="50%">
+
+### ⚡ Current Focus
+- AI systems & automation  
+- Recommendation architectures  
+- Backend engineering  
+- Scalable product infrastructure  
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,fastapi,mongodb,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,fastapi,mongodb,postgres,docker,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="160" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="160" alt="languages graph" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rpcoders&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rpcoders&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
 </div>
 
 ---
 
-## 🌱 Current Focus
+## 🧠 Engineering Interests
 
-- AI systems and automation
-- Recommendation architectures
-- Backend engineering
-- Scalable product development
+AI Systems
+Backend Architecture
+Semantic Search
+Recommendation Infrastructure
+Automation Workflows
+Product Engineering
 
 ---
 
-## 📫 Connect With Me
+🌐 Connect
 
-<p align="left">
-  <a href="https://github.com/Rpcoders" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<p align="center">
+  <a href="https://github.com/Rpcoders">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
