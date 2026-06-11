@@ -1,5 +1,18 @@
-<div align="center">  <!-- Animated Header -->  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Risabh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>  <!-- Typing Animation -->  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=500&color=00D4FF&background=00000000&center=true&vCenter=true&width=800&height=100&lines=🚀+AI+Systems+Engineer;⚙️+Backend+%2B+Automation+Builder;🔍+Semantic+Search+%26+Rec+Systems;💻+Full+Stack+Product+Developer;💡+Problem+Solving+Enthusiast;🎯+Always+Learning+%26+Growing!" alt="Typing SVG" />  <!-- Animated Divider -->  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  <!-- Profile Views with Animation -->  <img src="https://komarev.com/ghpvc/?username=Rpcoders&label=Profile%20Views&color=brightgreen&style=for-the-badge&logo=eye" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Rpcoders?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />  </div>  <!-- Snake Animation -->  <div align="center">  🐍 Watch My Contributions Get Eaten!
+<!-- HEADER -->
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=soft&color=0:000000,70:001824,100:004d6b&height=240&section=header&text=RISABH&fontSize=72&fontColor=ffffff&fontAlignY=44&stroke=00d4e8&strokeWidth=2&desc=AI+Systems+Engineer+·+Backend+Architect+·+Automation+Builder&descSize=16&descAlignY=68&descColor=67e8f9&animation=twinkling)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3500&pause=800&color=67e8f9&center=true&vCenter=true&width=720&lines=Architecting+Autonomous+Intelligent+Systems;Backend+Engineering+%7C+Automation+Workflows;Semantic+Search+%26+Recommendation+Infrastructure;Full-Stack+Product+Development+%7C+Distributed+AI;Open+to+Collaborate+%C2%B7+Let's+Build+Something+Great!" alt="Typing SVG" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rpcoders&label=Profile%20Views&color=00d4e8&style=for-the-badge&logo=eye" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Rpcoders?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
+
+</div>
+
+---<!-- Snake Animation -->  <div align="center">  🐍 Watch My Contributions Get Eaten!
 
 <picture>      
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rpcoders/snk/output-svg-only/github-contribution-grid-snake.svg">      
