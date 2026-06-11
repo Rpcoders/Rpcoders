@@ -18,18 +18,38 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rpcoders/snk/output-svg-only/github-contribution-grid-snake.svg">      
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rpcoders/snk/output-svg-only/github-contribution-grid-snake.svg">      
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rpcoders/snk/output-svg-only/github-contribution-grid-snake.svg">      
-</picture>  </div>  <!-- About Me Section with Enhanced Styling -->  <div align="center">  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">    </div>  <img align="right" alt="Coding GIF" width="420" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">  👨‍💻 Developer Info:    
-name: "Risabh"    
-nickname: "Risabh"    
-location: "India 🇮🇳"    
-current_role: "AI Systems & Backend Engineer"    
-company: "Independent Product Developer"    
-experience: "Building Scalable Systems"    🎯 Expertise:
-cloud_platforms: ["AWS", "Docker", "Scalable Infrastructure"]
-devops_tools: ["Git", "GitHub Actions", "Automation Workflows"]
-backend_engineering: ["Python", "FastAPI", "Node.js", "TypeScript"]
-databases_search: ["MongoDB", "PostgreSQL", "Semantic Search", "Vector Similarity"]
-``
+</picture>  </div>  
+<!-- About Me Section -->
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" />
+  <h2>Engineering Profile</h2>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👨‍💻 Developer Info</h4>
+      <ul>
+        <li><b>Name:</b> Risabh</li>
+        <li><b>Location:</b> India 🇮🇳</li>
+        <li><b>Current Role:</b> AI Systems & Backend Engineer</li>
+        <li><b>Focus:</b> Independent Product Development</li>
+        <li><b>Core Philosophy:</b> Building Scalable & Deterministic Systems</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 Core Expertise</h4>
+      <ul>
+        <li><b>Backend:</b> Python • FastAPI • Node.js • TypeScript</li>
+        <li><b>Data & Search:</b> Vector Similarity • Semantic Search • PostgreSQL • MongoDB</li>
+        <li><b>Cloud & DevOps:</b> AWS • Docker • GitHub Actions • Workflows</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
 
 🌱 Currently Learning & Focusing:
 
